@@ -1,9 +1,17 @@
-PCZone es una tienda online de componentes informáticos orientada a usuarios domésticos y pequeños entusiastas de la informática, desarrollada como proyecto final del ciclo DAW.
+# PCZone 
 
-Qué hace:
+PCZone es una tienda online de componentes informáticos desarrollada como proyecto final del ciclo DAW.
 
--Catálogo de productos (CPU, GPU, RAM, etc.).
--Registro y login de usuarios
--Carrito de la compra
--Gestión de pedidos
--Panel de administración básico
+##Descripción
+El proyecto simula una tienda online similar a PcComponentes pero a menor escala, permitiendo a los usuarios navegar por un catálogo de productos, añadir artículos al carrito y realizar pedidos.
+
+##Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Git y GitHub
+
+## Autores
+-David Pascual Martinez
